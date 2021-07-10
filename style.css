@@ -1,0 +1,87 @@
+body
+{
+    
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.308);
+    background-image: url("./img/bg.jpg");
+    background-blend-mode: multiply;
+    
+    background-repeat: no-repeat    ;
+    background-position: cover;
+    
+}
+  
+
+#head
+{
+    text-transform: uppercase;
+    color: bisque;
+    text-shadow: 0 10px 20px rgb(112, 139, 228);
+    margin-bottom: 20px;
+    position: relative;
+}
+@keyframes text{
+    0%{letter-spacing: 1px;
+    }
+    50%{
+        letter-spacing: 5px;
+    }
+    100%{
+        letter-spacing: 1px;
+    }
+}
+caption, label{
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(44, 19, 134);
+    text-decoration: underline;
+}
+
+#deptSelect{
+    width: auto;
+    height: 30px;
+    border: 1px solid rgba(45, 0, 128, 0.185) ;
+    font-weight: bold;
+    text-decoration: none;
+}
+table{
+   
+    width: 1000px;
+    border-collapse: collapse;
+    background-color: rgba(102, 65, 204, 0.199);
+    border: 5px solid rgb(255, 255, 255);    
+    margin: auto;
+    margin-top: 50px;
+    
+}
+th
+{
+    text-transform: uppercase;
+    background-color: white;
+}
+tr:hover {background-color: #f5f5f5;}
+th, td{
+    border: 1px solid rgb(33, 44, 68);
+    padding: 5px;
+    font-weight: bolder;
+}
+
+#deptSelect, #adnewbt
+{
+    background-color: rgba(18, 124, 196, 0.274);
+    border: 5px solid rgb(255, 255, 255);
+    width: 150px;
+    height: 50px;
+    text-align-last:center;
+    font-weight: bold;
+}
+#link{
+    text-decoration:"none"; 
+}
+
+#tbox1, #tbox2, #tbox3, #iname, #inum{
+    width: 300px;
+}

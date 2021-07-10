@@ -1,0 +1,93 @@
+{
+    "list":[
+        {
+            
+            "Name":"Hand Sanitiser",
+            "Quantity":"3",
+            "Unit":"Number",
+            "Department":"Health",
+            "Notes":"Pocket Friendly"
+        },
+       
+        {
+            
+            "Name":"Cucumber",
+            "Quantity":"2",
+            "Unit":"kg",
+            "Department":"Vegetables",
+            "Notes":"Organic"
+        },
+       
+        {
+            
+            "Name":"Apple",
+            "Quantity":"2",
+            "Unit":"kg",
+            "Department":"Fruits",
+            "Notes":"Green"
+        },
+       
+        {
+            
+            "Name":"Grapes",
+            "Quantity":"3",
+            "Unit":"kg",
+            "Department":"Fruits",
+            "Notes":"Purple"
+        },
+     
+        {
+            
+            "Name":"Orange",
+            "Quantity":"2",
+            "Unit":"kg",
+            "Department":"Fruits",
+            "Notes":"Fresh"
+        },
+     
+        {
+            
+            "Name":"Carrot",
+            "Quantity":"2",
+            "Unit":"kg",
+            "Department":"Vegetables",
+            "Notes":"Organic"
+        },
+      
+        {
+            
+            "Name":"Beetroot",
+            "Quantity":"2",
+            "Unit":"kg",
+            "Department":"Vegetables",
+            "Notes":"Organic"
+        },
+       
+        {
+            
+            "Name":"Beans",
+            "Quantity":"1",
+            "Unit":"kg",
+            "Department":"Food",
+            "Notes":"Organic"
+        },
+
+        {
+            
+            "Name":"Soap",
+            "Quantity":"5",
+            "Unit":"Number",
+            "Department":"Health",
+            "Notes":"Pears"
+        },
+        
+        {
+            
+            "Name":"Phenol",
+            "Quantity":"2",
+            "Unit":"L",
+            "Department":"Health",
+            "Notes":"Black Colour"
+        }
+    ]
+}
